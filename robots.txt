@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geoabuladze01rus-eng.github.io/-genesis-invest-group/sitemap.xml
